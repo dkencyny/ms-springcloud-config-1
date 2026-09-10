@@ -27,6 +27,9 @@ spring:
       max-total: 5
       max-wait-millis: 150
 
+student:
+  name: zhangsan
+
 eureka:
   client:
     registerWithEureka: true
@@ -61,6 +64,9 @@ spring:
       initial-size: 5
       max-total: 5
       max-wait-millis: 150
+
+student:
+  name: zhangsan
 
 eureka:
   client:
